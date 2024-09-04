@@ -866,5 +866,12 @@
 	"description": "buttons are for nerds.",
 	"image": "assets/img/themes/minimalist-oneliner.png",
 	"tags": [ "simple", "oneliner", "oneline", "compact" ]
+  },
+	  {
+    "title": "..........",
+    "link": "..........",
+    "description": "..........",
+    "image": "..........",
+    "tags": [ "your username/name", "theme type: dark", "theme type: light", "............." ]
   }
 ]
