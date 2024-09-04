@@ -866,5 +866,12 @@
 	"description": "buttons are for nerds.",
 	"image": "assets/img/themes/minimalist-oneliner.png",
 	"tags": [ "simple", "oneliner", "oneline", "compact" ]
+  },
+	  {
+    "title": "CHILL",
+    "link": "/Users/artem/Library/Application Support/Firefox/Profiles/chrome/RoundFox-main/wallpaper2",
+    "description": "cool",
+    "image": "/Users/artem/Library/Application Support/Firefox/Profiles/chrome/RoundFox-main/wallpaper2",
+    "tags": [ "your username/name", "theme type: dark", "theme type: light"]
   }
 ]
